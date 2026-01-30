@@ -1,56 +1,35 @@
 # GasManagementSystem
-[TR] Proje Hakkında
-Bu proje, Yazılım Mühendisliği 1. Sınıf 1. Dönem "Programlamaya Giriş" dersi için geliştirilmiştir. Bir akaryakıt istasyonunun temel operasyonlarını simüle eden, Nesne Yönelimli Programlama (OOP) mantığıyla kurgulanmış bir konsol uygulamasıdır.
 
-Temel Fonksiyonlar:
+[[TR] Proje Hakkında
+Bu proje, Bilgisayar Mühendisliği 1. Sınıf 1. Dönem "Programlamaya Giriş" dersi bitirme ödevi olarak geliştirilmiştir. Bir akaryakıt istasyonunun temel operasyonlarını simüle eden, Nesne Yönelimli Programlama (OOP) mantığıyla kurgulanmış bir konsol uygulamasıdır.
 
-Rol Yönetimi: Yönetici, kasiyer ve teknik servis için farklı yetki seviyeleri.
+Öne Çıkan Özellikler:
 
-Stok Takibi: Yakıt satışına bağlı dinamik stok güncellenmesi.
+Çoklu Rol Desteği: Yönetici, kasiyer ve teknik servis için ayrılmış menüler.
 
-Arıza Simülasyonu: Rastgele oluşan pompa arızaları ve bakım modülü.
+Dinamik Stok: Satış işlemiyle eşzamanlı güncellenen yakıt depoları.
 
-Dosya Raporlama: Günlük ve aylık satış verilerinin .txt formatında kaydedilmesi.
+Bakım Modülü: Random kütüphanesi ile simüle edilen rastgele pompa arızaları.
+
+Dosya Çıktısı: Satış raporlarının fiziksel .txt dosyalarına yazdırılması.
 
 [EN] About the Project
-This project was developed for the "Introduction to Programming" course during Freshman Year, 1st Semester. It is a console-based application that simulates a fuel station's core operations using Object-Oriented Programming (OOP) principles.
+Developed as a final project for the Introduction to Programming (Freshman Year, 1st Semester) course. This console application simulates a fuel station management system using core OOP principles.
 
 Key Features:
 
-Role Management: Distinct access levels for Managers, Cashiers, and Maintenance staff.
+Role-Based Access: Specialized menus for Managers, Cashiers, and Maintenance staff.
 
-Inventory Tracking: Dynamic updates of fuel stocks based on real-time sales.
+Inventory Control: Real-time stock deduction and availability checks.
 
-Maintenance Simulation: Randomly generated pump failures and repair mechanisms.
+Failure Simulation: Randomly generated pump breakdowns and repair logic.
 
-Reporting: Sales data logging and generation of .txt report files.Harika bir başlangıç yapmışsın. GitHub profilin için hem Türkçe hem İngilizce, daha profesyonel ve sade bir README taslağı hazırladım. 1. sınıf projesi olduğunu vurgulamak, gelişimini takip eden işverenler veya hocaların için önemli bir detaydır.
+Persistent Reporting: Exporting daily and monthly sales data to .txt files.
 
-Fuel Management System (Java)
-[TR] Proje Hakkında
-Bu proje, Bilgisayar Mühendisliği 1. Sınıf 1. Dönem "Programlamaya Giriş" dersi için geliştirilmiştir. Bir akaryakıt istasyonunun temel operasyonlarını simüle eden, Nesne Yönelimli Programlama (OOP) mantığıyla kurgulanmış bir konsol uygulamasıdır.
+🛠 Teknik Detaylar / Technical Stack
+Language: Java
 
-Temel Fonksiyonlar:
-
-Rol Yönetimi: Yönetici, kasiyer ve teknik servis için farklı yetki seviyeleri.
-
-Stok Takibi: Yakıt satışına bağlı dinamik stok güncellenmesi.
-
-Arıza Simülasyonu: Rastgele oluşan pompa arızaları ve bakım modülü.
-
-Dosya Raporlama: Günlük ve aylık satış verilerinin .txt formatında kaydedilmesi.
-
-[EN] About the Project
-This project was developed for the "Introduction to Programming" course during Freshman Year, 1st Semester. It is a console-based application that simulates a fuel station's core operations using Object-Oriented Programming (OOP) principles.
-
-Key Features:
-
-Role Management: Distinct access levels for Managers, Cashiers, and Maintenance staff.
-
-Inventory Tracking: Dynamic updates of fuel stocks based on real-time sales.
-
-Maintenance Simulation: Randomly generated pump failures and repair mechanisms.
-
-Reporting: Sales data logging and generation of .txt report files.
+Concepts: Encapsulation, File I/O, Switch-Case, Composition, Arrays.
 
 Technical Stack / Teknolojiler
 Language: Java
