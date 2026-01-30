@@ -1,6 +1,6 @@
 # GasManagementSystem
 
-#[[TR] Proje Hakkında
+# [[TR] Proje Hakkında
 Bu proje, Bilgisayar Mühendisliği 1. Sınıf 1. Dönem "Programlamaya Giriş" dersi bitirme ödevi olarak geliştirilmiştir. Bir akaryakıt istasyonunun temel operasyonlarını simüle eden, Nesne Yönelimli Programlama (OOP) mantığıyla kurgulanmış bir konsol uygulamasıdır.
 
 **Öne Çıkan Özellikler:**
@@ -13,7 +13,7 @@ Bakım Modülü: Random kütüphanesi ile simüle edilen rastgele pompa arızala
 
 Dosya Çıktısı: Satış raporlarının fiziksel .txt dosyalarına yazdırılması.
 
-#[EN] About the Project
+# [EN] About the Project
 Developed as a final project for the Introduction to Programming (Freshman Year, 1st Semester) course. This console application simulates a fuel station management system using core OOP principles.
 
 **Key Features:**
